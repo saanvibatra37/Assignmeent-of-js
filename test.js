@@ -31,6 +31,6 @@ function getTotalSupply()
     console.log("\nTotal Number of NFTs minted: "+NFTs.length);
 
 }
-mintnft("Rajeev",1050,"K1x9c",1001,"Audio Based");
+mintnft("Saanvi",1050,"K1x9c",1001,"Audio Based");
 listNFTs();
 getTotalSupply();
